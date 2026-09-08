@@ -1,0 +1,866 @@
+[
+  {
+    "id": "A01",
+    "name": "噗噗放屁",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A01_噗噗放屁.png",
+    "sha256": "bd0c47429b19927f8e21e4904212b8b287b682030a62f1f84eff254d3bda57b7"
+  },
+  {
+    "id": "A02",
+    "name": "蚂蚁大军",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A02_蚂蚁大军.png",
+    "sha256": "61aa40afc7bd944fe8ad25f07f887d842bb9317ad0d457dccf5963d1d2894f3a"
+  },
+  {
+    "id": "A03",
+    "name": "便便雷",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A03_便便雷.png",
+    "sha256": "b09104fb2bf94221ec2289c416c5bfe705b27b02adc44c59604753655dd2571a"
+  },
+  {
+    "id": "A04",
+    "name": "拖鞋拍击",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A04_拖鞋拍击.png",
+    "sha256": "6a138efa405c8e33ed2c9dc2d66f956a992fdd980308d9c982ef82741940e442"
+  },
+  {
+    "id": "A05",
+    "name": "口水飞镖",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A05_口水飞镖.png",
+    "sha256": "8420a2b841f32b2e08a7b8e4771a9294dfa9e4ddd0b13c5597a29d9029195861"
+  },
+  {
+    "id": "A06",
+    "name": "泡泡盾",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A06_泡泡盾.png",
+    "sha256": "e02002652091bdbc2f839cf8e51ddc4abdc442a43ebe97e427f384cbe7dee309"
+  },
+  {
+    "id": "A07",
+    "name": "鱼骨回旋镖",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A07_鱼骨回旋镖.png",
+    "sha256": "6b411fe2a43f09755be3a1e855826dbf608f72fde32f3f7ae264adaa8277c46a"
+  },
+  {
+    "id": "A08",
+    "name": "卖萌眩晕",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A08_卖萌眩晕.png",
+    "sha256": "371a2c0962da4f0db179b12bd6d5878c8e79d6e6e03f7af430a99b5bdca330f2"
+  },
+  {
+    "id": "A09",
+    "name": "嘴炮音波",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A09_嘴炮音波.png",
+    "sha256": "73d396604853ba9c6f9feaa7b793e483eb76f21ee907812dd8ced22392a1ff7d"
+  },
+  {
+    "id": "A10",
+    "name": "召唤小水獭",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A10_召唤小水獭.png",
+    "sha256": "d32ae1ffa09794639c7dcff5ea012546d049c8c9e53279da0130653f8777c1ad"
+  },
+  {
+    "id": "A11",
+    "name": "鞋子地雷",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A11_鞋子地雷.png",
+    "sha256": "bb099f5b2ed7f906112ad7c4252f391bcde83400013275a7a7311490115b3225"
+  },
+  {
+    "id": "A12",
+    "name": "香蕉皮",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A12_香蕉皮.png",
+    "sha256": "b3b88fde903862ee8b73687ce527f9d9496685417beb2b407a206666f9aeb255"
+  },
+  {
+    "id": "A13",
+    "name": "奶茶泼射",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A13_奶茶泼射.png",
+    "sha256": "a90a5c384bea5bdd3078a58e9230d466f0aa9e90465538d98e0f3fc952255843"
+  },
+  {
+    "id": "A14",
+    "name": "丢袜子",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A14_丢袜子.png",
+    "sha256": "c6da5b35c56ff7840e2e6e88f91a176132cd150a98a473dac8d434e5c19cb687"
+  },
+  {
+    "id": "A15",
+    "name": "尾巴鞭",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A15_尾巴鞭.png",
+    "sha256": "6a79f6802b620cc254e0b68c935f5954dd9ff4abbab34a20d788847b2716aaff"
+  },
+  {
+    "id": "A16",
+    "name": "鱼雷齐射",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A16_鱼雷齐射.png",
+    "sha256": "6383416d2a5b2dc2e346dd4f0f96584041a6054b127902b73265a8043d3df528"
+  },
+  {
+    "id": "A17",
+    "name": "摇尾巴",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A17_摇尾巴.png",
+    "sha256": "daabbb59e3b70ddf65dfe571dd651216992ce8c4318152dcc0caa57923d5552f"
+  },
+  {
+    "id": "A18",
+    "name": "求雨·鱼",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A18_求雨·鱼.png",
+    "sha256": "15d674362757a726da6852834a2d7b4f925e9d6adc39f0cda63d9c49e5fe67a8"
+  },
+  {
+    "id": "A19",
+    "name": "便便炸弹",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A19_便便炸弹.png",
+    "sha256": "9969dac180d8e0d8f85aa10b0b3c9e07a9c0a0f0ed4ee79a2e926e7d0b0ff582"
+  },
+  {
+    "id": "A20",
+    "name": "可爱冲击波",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "01_主动图标/A20_可爱冲击波.png",
+    "sha256": "94fa8cf6e5ba61c0f0e9ce357150441bd1f0e11db9094d32a932bb0d5d3e4659"
+  },
+  {
+    "id": "B01",
+    "name": "剧毒",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B01_剧毒.png",
+    "sha256": "eba1b8fc5028f21573ad54f0e08087c0119d73f5d6bd38bfd0e58152e816c5d1"
+  },
+  {
+    "id": "B02",
+    "name": "燃烧",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B02_燃烧.png",
+    "sha256": "0dbd7cc8c41d8f34493486c2a08659108a5aa897187032c926bf97618dae8987"
+  },
+  {
+    "id": "B03",
+    "name": "寒冰",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B03_寒冰.png",
+    "sha256": "c5b336c8ffb8f9e704350d3890eeb8a0a01396737d5739ac42dae0708dbe754b"
+  },
+  {
+    "id": "B04",
+    "name": "闪电",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B04_闪电.png",
+    "sha256": "796392ada0680d8d1e2980d794e40af28be54527342208380a91ffd900923f59"
+  },
+  {
+    "id": "B05",
+    "name": "召唤强化",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B05_召唤强化.png",
+    "sha256": "2205b94ba636df380902a11a43e9d978d2d433908c7cbdb7de2ee669cd9d84ac"
+  },
+  {
+    "id": "B06",
+    "name": "范围扩大",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B06_范围扩大.png",
+    "sha256": "e91d459a0c50a2720df826b7082c5dedc8e122a814ea771c63eb81cfccf404e5"
+  },
+  {
+    "id": "B07",
+    "name": "冷却缩减",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B07_冷却缩减.png",
+    "sha256": "093f1bcc530812446110717f88744d19d20f2aaaa80fe58c5a6658666ec5a627"
+  },
+  {
+    "id": "B08",
+    "name": "暴击强化",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B08_暴击强化.png",
+    "sha256": "01b673bd0fb136c8b665564e05cd1145d6822960b8dcd6007e40ca1193af9b79"
+  },
+  {
+    "id": "B09",
+    "name": "吸血",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B09_吸血.png",
+    "sha256": "1412c86b22f159971c6d145680b0924d009da4ced7a4e4ea0bd5b5819c3c17e9"
+  },
+  {
+    "id": "B10",
+    "name": "弹射",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B10_弹射.png",
+    "sha256": "1f5365580fca102b5ef6427257a26c92e9e41b38f729760658eb00edfc694e9a"
+  },
+  {
+    "id": "B11",
+    "name": "持久",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B11_持久.png",
+    "sha256": "1868c4f73f6767cc077676688269e8f93487ca2300aaf5af70c9b38ebbed3aaf"
+  },
+  {
+    "id": "B12",
+    "name": "召唤复生",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B12_召唤复生.png",
+    "sha256": "7dbb6eac9f49fb1a7221a650c6f24fc78c900f4fb7e8e63bd3c807933badbcfe"
+  },
+  {
+    "id": "B13",
+    "name": "力量提升",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B13_力量提升.png",
+    "sha256": "3653e72736ca926f7ee7d3a74b6933095f3fc0c85ebf7d60a853d4f645aaea9a"
+  },
+  {
+    "id": "B14",
+    "name": "生命上限",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B14_生命上限.png",
+    "sha256": "d1cc4cdeadf3f445b367fbd3ad570cf14abb6c698ccadda98ed5e76a75564590"
+  },
+  {
+    "id": "B15",
+    "name": "轻快脚步",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B15_轻快脚步.png",
+    "sha256": "dcd2d421ead626713ba4fbed8d88961b84fd79c75a1c35a91897e1185502d0c4"
+  },
+  {
+    "id": "B16",
+    "name": "磁吸拾取",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B16_磁吸拾取.png",
+    "sha256": "e0255bd943d6a1471cb69cf35d0f9bb33f409dee7a67376434df9dd59346f252"
+  },
+  {
+    "id": "B17",
+    "name": "毒气扩散",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B17_毒气扩散.png",
+    "sha256": "00132f6971b7ae031cee827154fe58c3ffbd71b42b7b87827bbe24f83232e8de"
+  },
+  {
+    "id": "B18",
+    "name": "多重投射",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B18_多重投射.png",
+    "sha256": "8b775b22577734ebcd22dc3ec0ca3e9be2738d65d8b4cffbb61e93fec6a67c95"
+  },
+  {
+    "id": "B19",
+    "name": "穿透强化",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B19_穿透强化.png",
+    "sha256": "7aae7807f70befdb87e0852417ada3e7a664242d284e8843e2cb3860468283b8"
+  },
+  {
+    "id": "B20",
+    "name": "护盾强化",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "02_辅助图标/B20_护盾强化.png",
+    "sha256": "9caf6d531edd4c40a164995efce35671a24f1566a2fb407cb308a787791b20e1"
+  },
+  {
+    "id": "U01",
+    "name": "开场封面",
+    "original_size": [
+      941,
+      1672
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      941,
+      1672
+    ],
+    "exported_mode": "RGB",
+    "file": "03_界面效果图/U01_开场封面.png",
+    "sha256": "f12d80ecda3bf41370c461a40330f7f647ca6e00db24400821e196bbb0e3a180"
+  },
+  {
+    "id": "U02",
+    "name": "关卡与皮肤选择",
+    "original_size": [
+      941,
+      1672
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      941,
+      1672
+    ],
+    "exported_mode": "RGB",
+    "file": "03_界面效果图/U02_关卡与皮肤选择.png",
+    "sha256": "e89b3ba9038f7254eee3af65912e005d0cf4070723c23925e0e2ccc2c3eafa38"
+  },
+  {
+    "id": "U03",
+    "name": "战斗HUD",
+    "original_size": [
+      941,
+      1672
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      941,
+      1672
+    ],
+    "exported_mode": "RGB",
+    "file": "03_界面效果图/U03_战斗HUD.png",
+    "sha256": "09e9387c6818a6ec874521115df6c9098fb5d133465b86af159a743d56003bd2"
+  },
+  {
+    "id": "U04",
+    "name": "升级选择",
+    "original_size": [
+      941,
+      1672
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      941,
+      1672
+    ],
+    "exported_mode": "RGB",
+    "file": "03_界面效果图/U04_升级选择.png",
+    "sha256": "697ab1d8692724182651ce8a0b66c37b2273e24b1bec3e0f706e8e1a92280ab6"
+  },
+  {
+    "id": "U05",
+    "name": "厨房守住_胜利",
+    "original_size": [
+      941,
+      1672
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      941,
+      1672
+    ],
+    "exported_mode": "RGB",
+    "file": "03_界面效果图/U05_厨房守住_胜利.png",
+    "sha256": "6c33de9eeaa7f55c7143be11de100126503c32a9d51af4967fa49e2533ef0ad6"
+  },
+  {
+    "id": "U06",
+    "name": "再来一局_失败",
+    "original_size": [
+      941,
+      1672
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      941,
+      1672
+    ],
+    "exported_mode": "RGB",
+    "file": "03_界面效果图/U06_再来一局_失败.png",
+    "sha256": "c2014dcdb372fec3f9afb1bfa767d9f3e6cf4fe3d79e1eee530aa81695c4c13d"
+  },
+  {
+    "id": "V01",
+    "name": "泡泡保护层_效果方向",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      1024,
+      1536
+    ],
+    "exported_mode": "RGB",
+    "file": "04_技能特效/V01_泡泡保护层_效果方向.png",
+    "sha256": "b11a622d38d67c9e47db970ffb1bdb3427d876a62d5b12925415ae2417a9761d"
+  },
+  {
+    "id": "V02",
+    "name": "蚁海毒爆_联动方向",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      1024,
+      1536
+    ],
+    "exported_mode": "RGB",
+    "file": "04_技能特效/V02_蚁海毒爆_联动方向.png",
+    "sha256": "76ba72fb20cbc4823895b57fd16e485c354b0f42fb2e78a75bdbdaaf0220bbca"
+  },
+  {
+    "id": "C01",
+    "name": "田鼠厨房",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "07_关卡图标/C01_田鼠厨房.png",
+    "sha256": "e393f19cdfeeed035e727892dfe8340941abc07ce54704a5b7b5799924872b01"
+  },
+  {
+    "id": "C02",
+    "name": "仓鼠跑轮场",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "07_关卡图标/C02_仓鼠跑轮场.png",
+    "sha256": "53f2b34ba1aa1675202b471ab70436b473ab191cedb203ffee69b685acd7fcfb"
+  },
+  {
+    "id": "C03",
+    "name": "鼹鼠矿坑",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "07_关卡图标/C03_鼹鼠矿坑.png",
+    "sha256": "29393cf954a4e0998ae8527c619dde9838c6f695fb5700d148d440a0154eec69"
+  },
+  {
+    "id": "C04",
+    "name": "旅鼠悬崖",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "07_关卡图标/C04_旅鼠悬崖.png",
+    "sha256": "a55f6facd7f5e5313c87e22a9537a736540657121ea9015ee00f9022b445fa8a"
+  },
+  {
+    "id": "C05",
+    "name": "鼠王王座",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      512,
+      512
+    ],
+    "exported_mode": "RGB",
+    "file": "07_关卡图标/C05_鼠王王座.png",
+    "sha256": "eda24c5e40721f74c8c6f1847628467bdbb01a2e3a23fafdd4fd7c8331ca36b2"
+  },
+  {
+    "id": "V03",
+    "name": "泡泡保护层_独立叠加素材",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_mode": "RGB",
+    "exported_size": [
+      1024,
+      1024
+    ],
+    "exported_mode": "RGBA",
+    "file": "04_技能特效/V03_泡泡保护层_独立叠加素材.png",
+    "sha256": "23507663aefabc24733f1000a3643f32280ef88bb4308692645810054b28122d"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "U01",
+    "name": "开场封面",
+    "kind": "界面",
+    "prompt": "Use case: ui-mockup. Create a polished complete portrait mobile game UI art concept at 9:16, edge-to-edge, no device frame. Game 噗噗总动员, cute cream otter protagonist with brown paw-print apron, same established character and kitchen visual as references. Warm hand-painted 2D illustration, dark chocolate contours, rich honey kitchen lighting, cream/sage/coral/gold UI. Premium cohesive cozy casual game, illustration-led, very little text. Realistic phone UI hierarchy, safe margins, clean icon buttons. Text must be only the specified short Chinese labels, clean readable Chinese. Reference 1 kitchen is environment identity; reference 2 otter is character identity, do not copy its landscape backdrop. An inviting full-screen illustrated game cover: heroic apron otter center lower-middle brandishing a mint slipper, a few mischievous small mice peeking beside cheese and pots, warm kitchen arch framing the scene. Illustrated custom title at upper third exactly 噗噗总动员, small paw and cheese motifs. Bottom quarter one generous sage-green button with a golden play triangle and exact text 开始守护. Tiny speaker and gear icons at upper right. Artwork dominates, no paragraphs, no stats.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png"
+    ]
+  },
+  {
+    "id": "U02",
+    "name": "关卡与皮肤选择",
+    "kind": "界面",
+    "prompt": "Use case: ui-mockup. Create a polished complete portrait mobile game UI art concept at 9:16, edge-to-edge, no device frame. Game 噗噗总动员, cute cream otter protagonist with brown paw-print apron, same established character and kitchen visual as references. Warm hand-painted 2D illustration, dark chocolate contours, rich honey kitchen lighting, cream/sage/coral/gold UI. Premium cohesive cozy casual game, illustration-led, very little text. Realistic phone UI hierarchy, safe margins, clean icon buttons. Text must be only the specified short Chinese labels, clean readable Chinese. Reference 1 kitchen is environment identity; reference 2 otter is character identity, do not copy its landscape backdrop. Pre-game level and outfit selection screen. Top small wooden header 田鼠厨房 with a tiny cheese emblem and discreet badge 01. Upper 48% rich illustrated stage preview kitchen with the apron otter and little mouse enemy. A middle horizontal strip of five tiny illustrated stage tiles (kitchen, hamster wheel, mine, cliff, royal throne); first selected. Lower section two clearly separated compact rows: label 服装 then four illustrated otter outfit portraits (brown apron, chef hat, yellow construction helmet, pink bubble-tea costume); label 大佬皮肤 then five cute boss-face portraits (cheese mouse, hamster, mole, lemming, crowned mouse king). A large selected character can remain in stage preview. Bottom warm coral play button exact text 出发. Gear and back icon only. No attack stat claims, no long descriptions. Reference 3 supplies the existing outfit identities; reference 4 supplies existing five Boss designs, preserve cheese crown, wheel hamster, mining mole, pirate lemming and royal mouse king.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260905_噗噗总动员_美术效果图_v1/01_主角10套皮肤.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260905_噗噗总动员_美术效果图_v1/03_Boss5种_修订v3.png"
+    ]
+  },
+  {
+    "id": "U03",
+    "name": "战斗HUD",
+    "kind": "界面",
+    "prompt": "Use case: ui-mockup. Create a polished complete portrait mobile game UI art concept at 9:16, edge-to-edge, no device frame. Game 噗噗总动员, cute cream otter protagonist with brown paw-print apron, same established character and kitchen visual as references. Warm hand-painted 2D illustration, dark chocolate contours, rich honey kitchen lighting, cream/sage/coral/gold UI. Premium cohesive cozy casual game, illustration-led, very little text. Realistic phone UI hierarchy, safe margins, clean icon buttons. Text must be only the specified short Chinese labels, clean readable Chinese. Reference 1 kitchen is environment identity; reference 2 otter is character identity, do not copy its landscape backdrop. Gameplay HUD art concept using the same top-down kitchen floor layout, clear open battlefield. Small cream apron otter at center inside a delicate cyan-lilac protective bubble, several small brown mice approaching. Upper left compact heart health bar and thin experience bar; top center discreet small Lv 4 label approximately 18px at 1080px-wide conceptual display, not a huge banner. Top right pause icon. Bottom centered compact 2-row dock: EXACTLY 5 small square ACTIVE ICON slots on top (green gas puff, ants, blue droplet, mint slipper, blue bubble), EXACTLY 5 small PASSIVE ICON slots below (clock, poison drop, expansion arrows, ant arrow, shield plus). Dock overall width about 70% screen and height at most 12%, simple ivory tiles with subtle mint for active and gold for passive. Icons ONLY no skill labels, no names under tiles. No fixed joystick on screen. Battlefield fills most screen. Only text Lv 4. Soft translucent dock avoids crowding.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png"
+    ]
+  },
+  {
+    "id": "U04",
+    "name": "升级选择",
+    "kind": "界面",
+    "prompt": "Use case: ui-mockup. Create a polished complete portrait mobile game UI art concept at 9:16, edge-to-edge, no device frame. Game 噗噗总动员, cute cream otter protagonist with brown paw-print apron, same established character and kitchen visual as references. Warm hand-painted 2D illustration, dark chocolate contours, rich honey kitchen lighting, cream/sage/coral/gold UI. Premium cohesive cozy casual game, illustration-led, very little text. Realistic phone UI hierarchy, safe margins, clean icon buttons. Text must be only the specified short Chinese labels, clean readable Chinese. Reference 1 kitchen is environment identity; reference 2 otter is character identity, do not copy its landscape backdrop. A paused-game upgrade selection UI over gently blurred warm kitchen. At top an illustrated golden paw medallion with sparkles and short title 升级啦. Three beautiful horizontal rounded choice cards stacked vertically in center, each with a large icon at left, just a short name and one short benefit line. First mint cloud + expansion arrows icon, name 毒气扩散, benefit 毒气范围增加; second clock icon, name 冷却缩减, benefit 招式更快释放; third three ants icon, name 召唤强化, benefit 伙伴更强. First card has tiny linked cloud and gas icons connected by gold chain to suggest dependency active; no technical words. Bottom of overlay shows two compact rows of five equipped icons each, no labels. A small golden reroll circular-arrow button below choices. Cards feel like illustrated collectible kitchen recipe cards, mostly visual.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png"
+    ]
+  },
+  {
+    "id": "U05",
+    "name": "厨房守住_胜利",
+    "kind": "界面",
+    "prompt": "Use case: ui-mockup. Create a polished complete portrait mobile game UI art concept at 9:16, edge-to-edge, no device frame. Game 噗噗总动员, cute cream otter protagonist with brown paw-print apron, same established character and kitchen visual as references. Warm hand-painted 2D illustration, dark chocolate contours, rich honey kitchen lighting, cream/sage/coral/gold UI. Premium cohesive cozy casual game, illustration-led, very little text. Realistic phone UI hierarchy, safe margins, clean icon buttons. Text must be only the specified short Chinese labels, clean readable Chinese. Reference 1 kitchen is environment identity; reference 2 otter is character identity, do not copy its landscape backdrop. Victory results screen: joyous cream apron otter holding a golden cheese trophy in warm restored kitchen, several cute mice peacefully retreating in background, tasteful cream/mint confetti. Upper illustrated ribbon exact text 厨房守住. Hero illustration occupies more than half screen. Below illustration a small tidy row of three illustrated reward icons (gold coin, blue gem, heart) with minimal numbers 150, 3, 1. Bottom big sage next-arrow button exact text 下一关; small home-shaped secondary icon. No paragraphs, no dark modal.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png"
+    ]
+  },
+  {
+    "id": "U06",
+    "name": "再来一局_失败",
+    "kind": "界面",
+    "prompt": "Use case: ui-mockup. Create a polished complete portrait mobile game UI art concept at 9:16, edge-to-edge, no device frame. Game 噗噗总动员, cute cream otter protagonist with brown paw-print apron, same established character and kitchen visual as references. Warm hand-painted 2D illustration, dark chocolate contours, rich honey kitchen lighting, cream/sage/coral/gold UI. Premium cohesive cozy casual game, illustration-led, very little text. Realistic phone UI hierarchy, safe margins, clean icon buttons. Text must be only the specified short Chinese labels, clean readable Chinese. Reference 1 kitchen is environment identity; reference 2 otter is character identity, do not copy its landscape backdrop. Gentle retry results screen: tired but determined cute cream apron otter sitting beside toppled cheese basket and mint slipper, a small bandage on forehead, supportive soft lilac kitchen evening lighting, comedic not distressing. Upper soft illustrated ribbon exact text 再来一局. Large charming character illustration dominates. Below a small row of three icon-only indicators: cheese, crossed-slipper, clock. Bottom inviting coral circular-return-arrow button exact text 重新挑战; smaller house-shaped home icon. Optimistic and polished. No paragraphs and no ads.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png"
+    ]
+  },
+  {
+    "id": "V01",
+    "name": "泡泡保护层_效果方向",
+    "kind": "特效方向",
+    "prompt": "Use case: stylized-concept. Portrait polished in-game art demonstration for Pupu Otter Rampage, reference kitchen environment and same cute cream otter wearing brown paw-print apron. Center one full-body otter three-quarter facing right, correctly coordinated body, hands and feet. Surround it with a beautiful translucent pearlescent cyan protective bubble, subtle lilac outer rim and golden paw glint near top, sparse soft stars. Character face and body must stay fully visible through the shield, no opaque sphere. Thin ellipse grounding halo below. Small nearby brown mouse just hitting outside shield creates a tiny localized white-gold ripple, no damage obscuring hero. Full warm handpainted kitchen setting visible behind shield. Premium 2D game VFX art direction, no text, no HUD, no checkerboard.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png"
+    ]
+  },
+  {
+    "id": "V02",
+    "name": "蚁海毒爆_联动方向",
+    "kind": "特效方向",
+    "prompt": "Use case: stylized-concept. Portrait polished in-game art direction demonstration, same warm kitchen reference and same cream apron otter. High three-quarter top-down floor view. Otter at left-middle releasing a soft readable mint-green gas area on floor, three cute dark ants move THROUGH the gas and emerge with small green glowing droplets around them toward two mice at right. Show visual causal path with curved ant movement and green trail, no infographic arrows, no text, no HUD. Poison cloud translucent, warm tiled floor and all characters clearly visible. Tiny green impact puff where leading ant reaches mouse. Charming humorous clean handpainted 2D, brown outlines; not realistic insects, no gore. Composition leaves generous open floor; controlled VFX scale.",
+    "refs": [
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/01_田鼠厨房_背景制作版.png",
+      "C:/Users/User/Documents/Document Contral/CJ Brain 2/11_游戏项目/01_美术/20260906_整帧走路与厨房_v2/walk_right_12frames/walk_00.png"
+    ]
+  }
+]
